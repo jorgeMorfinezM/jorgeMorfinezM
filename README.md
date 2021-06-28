@@ -1,6 +1,8 @@
 </br>
 
-Jorge Morfinez Mojica's Stats
+Jorge Morfinez Mojica's Profile
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/jorgeMorfinezM/jorgeMorfinezM/master/wave.gif" width="30px">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=jorgeMorfinezM&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula&layout=compact" />
 
@@ -18,6 +20,19 @@ Wakatime Stats
 
 </br>
 </br>
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/jorgeMorfinezM/jorgeMorfinezM/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/jorgeMorfinez_
+[2]: https://www.linkedin.com/in/jorgemorfinezm/
+
 </br>
 </br>
 </br>
