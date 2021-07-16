@@ -25,7 +25,7 @@
     </br>
     </br>
     <div align="center">
-      Wakatime Stats
+      </br>
       </br>
       <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jorgemorfinezm&layout=compact&theme=dracula&layout=compact" />
     </div> 
