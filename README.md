@@ -6,13 +6,13 @@ Jorge Morfinez Mojica's Profile
 
 </br>
 </br>
+</br>
 
 GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=jorgeMorfinezM&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula&layout=compact" />
 
 Top Langs
-
 <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeMorfinezM&layout=compact&theme=dracula" />
 
 </br>
@@ -21,8 +21,13 @@ Top Langs
 
 Wakatime Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jorgeMorfinezM&layout=compact&theme=dracula&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=jorgeMorfinezM&layout=compact&theme=dracula&layout=compact" />
 
+</br>
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 
