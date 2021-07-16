@@ -17,6 +17,9 @@
     <div align="center">
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
     </div>
+    </br>
+    </br>
+    </br>
     <div align="center">
       <!--Top Langs-->
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeMorfinezM&layout=compact&theme=dracula" />
@@ -24,10 +27,10 @@
     </br>
     </br>
     </br>
-    <div align="rigth">
+    <div align="left">
       </br>
       </br>
-      <img align="rigth" src="https://github-readme-stats.vercel.app/api/wakatime?username=jorgemorfinezm&layout=compact&theme=dracula&layout=compact" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=jorgemorfinezm&layout=compact&theme=dracula&layout=compact" />
     </div> 
     </br>
     </br>
@@ -36,10 +39,15 @@
     </br>
     </br>
     </br>
-    <div align="left">
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    <div align="rigth">
       You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
       </br>
-      <div align="left">
+      <div align="rigth">
         <!-- Icons -->
         [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
         </br>
