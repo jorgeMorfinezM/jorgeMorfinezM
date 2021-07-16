@@ -14,6 +14,9 @@
       <!--GitHub Stats-->
       <img align="left" src="https://github-readme-stats.vercel.app/api/?username=jorgeMorfinezM&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula&layout=compact" />
     </div> 
+    </br>
+    </br>
+    </br>
     <div align="center">
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
     </div>
@@ -28,8 +31,6 @@
     </br>
     </br>
     <div align="left">
-      </br>
-      </br>
       <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=jorgemorfinezm&layout=compact&theme=dracula&layout=compact" />
     </div> 
     </br>
