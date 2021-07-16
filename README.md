@@ -13,6 +13,11 @@
     <div align="left">
       <!--GitHub Stats-->
       <img align="left" src="https://github-readme-stats.vercel.app/api/?username=jorgeMorfinezM&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula&layout=compact" />
+      </br>
+      </br>
+      </br>
+      </br>
+      </br>
     </div> 
     </br>
     </br>
