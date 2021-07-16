@@ -14,11 +14,9 @@
       <!--GitHub Stats-->
       <img align="left" src="https://github-readme-stats.vercel.app/api/?username=jorgeMorfinezM&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula&layout=compact" />
     </div> 
-    <!--
     <div align="center">
       <p>&nbsp;</p>
-    </div> 
-    -->
+    </div>
     <div align="rigth">
       <!--Top Langs-->
       <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeMorfinezM&layout=compact&theme=dracula" />
